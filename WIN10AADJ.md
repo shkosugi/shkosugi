@@ -7,7 +7,7 @@ Windows10デバイスをMDMを利用してモダン管理する場合、必須�
 
 1) [Intune 管理ダッシュボード](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/) に全体管理者でサインインします
 2) [デバイスの登録] - [Windows の登録] - [自動登録] をクリックします
-3) "MDM ユーザー スコープ" および "MAM ユーザー スコープ" で [一部] を選択し、PoC ユーザー グループを指定し、[保存] をクリックします
+3) "MDM ユーザー スコープ"で [一部] を選択し、PoC ユーザー グループを指定し、[保存] をクリックします
   
 <img src="images/3-1-3_MDMSCOPE.JPG" width="400">
 
