@@ -18,7 +18,7 @@ https://docs.microsoft.com/ja-jp/mem/intune/enrollment/corporate-identifiers-add
 7) [作成] をクリックします
   
 ## デバイスの登録
-1) 登録したいデバイスのAutoPilot情報を取得します。詳細な手順は以下のぺーjが詳しいです。
+1) 登録したいデバイスのAutoPilot情報を取得します。詳細な手順は以下のぺージが詳しいです。
 https://qiita.com/Gikill/items/d821b455c90800c3b598
 
 2) [Intune 管理ダッシュボード](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/) に全体管理者でサインインします
